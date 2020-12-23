@@ -4,4 +4,4 @@ If you're using a database or session memory to store OTP for matching it later 
 
 Databases are not supposed to be used for things like this. Session memory isn't the ideal approach too. Hence comes cryptography.
 
-```TO BE CONTINUED....
+```TO BE CONTINUED....```
